@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bumba\\RiderProjects\\Session3\\Exercise1\\Exercise1.csproj": {}
+    "C:\\Users\\bumba\\RiderProjects\\Csharp-exercises\\Session3\\Exercise1\\Exercise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bumba\\RiderProjects\\Session3\\Exercise1\\Exercise1.csproj": {
+    "C:\\Users\\bumba\\RiderProjects\\Csharp-exercises\\Session3\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bumba\\RiderProjects\\Session3\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "C:\\Users\\bumba\\RiderProjects\\Csharp-exercises\\Session3\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "C:\\Users\\bumba\\RiderProjects\\Session3\\Exercise1\\Exercise1.csproj",
+        "projectPath": "C:\\Users\\bumba\\RiderProjects\\Csharp-exercises\\Session3\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\bumba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bumba\\RiderProjects\\Session3\\Exercise1\\obj\\",
+        "outputPath": "C:\\Users\\bumba\\RiderProjects\\Csharp-exercises\\Session3\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bumba\\AppData\\Roaming\\NuGet\\NuGet.Config"
